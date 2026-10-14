@@ -2,7 +2,7 @@
 
 **Context:** Excel-based healthcare monitoring analysis, recreated with synthetic data for public demonstration.
 
-**Problem:** Raw monitoring entries may be scattered across dates, readings and free-text comments, making it difficult to review trends and recording patterns consistently.
+**Problem:** Raw monitoring entries may be scattered across dates, readings and free text comments, making it difficult to review trends and recording patterns consistently.
 
 **Approach:** Standardise data fields; distinguish recorded results from declined occasions; categorise readings using the project-specific example thresholds; group monitoring comments by time of day; and present counts, averages, trends and distributions in an Excel dashboard.
 
