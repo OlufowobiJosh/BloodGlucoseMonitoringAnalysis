@@ -1,0 +1,561 @@
+Synthetic ID,Date,Year,Monitoring context,Glucose (mmol/L),Monitoring status,Time group,Glucose category
+SIM-0001,2020-06-12,2020,After Tea,12.9,Recorded,Evening,Normal
+SIM-0002,2021-11-23,2021,Before Breakfast,9.2,Recorded,Morning,Normal
+SIM-0003,2022-04-08,2022,Before Lunch,11.2,Recorded,Midday,Normal
+SIM-0004,2023-09-19,2023,Night check,8.9,Recorded,Evening,Normal
+SIM-0005,2024-02-04,2024,Before Breakfast,9.3,Recorded,Morning,Normal
+SIM-0006,2025-07-15,2025,Morning bed check,10.3,Recorded,Morning,Normal
+SIM-0007,2026-12-26,2026,Bedtime,12.7,Recorded,Evening,Normal
+SIM-0008,2020-05-11,2020,Declined,,Declined,Evening,Not recorded
+SIM-0009,2021-10-22,2021,After Tea,10.7,Recorded,Evening,Normal
+SIM-0010,2022-03-07,2022,After Tea,7.3,Recorded,Evening,Normal
+SIM-0011,2023-08-18,2023,Before Tea,6.2,Recorded,Evening,Normal
+SIM-0012,2024-01-03,2024,After Lunch,10.7,Recorded,Midday,Normal
+SIM-0013,2025-06-14,2025,Bedtime,2.5,Recorded,Evening,Hypoglycaemia
+SIM-0014,2026-11-25,2026,After Breakfast,10.0,Recorded,Morning,Normal
+SIM-0015,2020-04-10,2020,After Breakfast,23.0,Recorded,Morning,Hyperglycaemia
+SIM-0016,2021-09-21,2021,Before Breakfast,6.9,Recorded,Morning,Normal
+SIM-0017,2022-02-06,2022,After Lunch,14.5,Recorded,Midday,Normal
+SIM-0018,2023-07-17,2023,After Lunch,8.2,Recorded,Midday,Normal
+SIM-0019,2024-12-02,2024,Bedtime,14.5,Recorded,Evening,Normal
+SIM-0020,2025-05-13,2025,Before Lunch,8.6,Recorded,Midday,Normal
+SIM-0021,2026-10-24,2026,Bedtime,11.8,Recorded,Evening,Normal
+SIM-0022,2020-03-09,2020,Before Breakfast,13.0,Recorded,Morning,Normal
+SIM-0023,2021-08-20,2021,Before Breakfast,11.2,Recorded,Morning,Normal
+SIM-0024,2022-01-05,2022,Before Tea,9.6,Recorded,Evening,Normal
+SIM-0025,2023-06-16,2023,Before Tea,15.5,Recorded,Evening,Hyperglycaemia
+SIM-0026,2024-11-01,2024,Night check,12.3,Recorded,Evening,Normal
+SIM-0027,2025-04-12,2025,Night check,6.8,Recorded,Evening,Normal
+SIM-0028,2026-09-23,2026,Before Breakfast,12.3,Recorded,Morning,Normal
+SIM-0029,2020-02-08,2020,After Tea,7.2,Recorded,Evening,Normal
+SIM-0030,2021-07-19,2021,Before Tea,10.4,Recorded,Evening,Normal
+SIM-0031,2022-12-04,2022,Night check,11.0,Recorded,Evening,Normal
+SIM-0032,2023-05-15,2023,Bedtime,11.6,Recorded,Evening,Normal
+SIM-0033,2024-10-26,2024,Morning bed check,13.3,Recorded,Morning,Normal
+SIM-0034,2025-03-11,2025,After Lunch,3.9,Recorded,Midday,Hypoglycaemia
+SIM-0035,2026-08-22,2026,After Breakfast,21.7,Recorded,Morning,Hyperglycaemia
+SIM-0036,2020-01-07,2020,Before Lunch,2.3,Recorded,Midday,Hypoglycaemia
+SIM-0037,2021-06-18,2021,Before Breakfast,11.6,Recorded,Morning,Normal
+SIM-0038,2022-11-03,2022,Morning bed check,,Declined,Morning,Not recorded
+SIM-0039,2023-04-14,2023,Before Tea,3.9,Recorded,Evening,Hypoglycaemia
+SIM-0040,2024-09-25,2024,After Lunch,12.3,Recorded,Midday,Normal
+SIM-0041,2025-02-10,2025,After Breakfast,14.7,Recorded,Morning,Normal
+SIM-0042,2026-07-21,2026,Declined,,Declined,Evening,Not recorded
+SIM-0043,2020-12-06,2020,Bedtime,15.5,Recorded,Evening,Hyperglycaemia
+SIM-0044,2021-05-17,2021,Before Breakfast,8.6,Recorded,Morning,Normal
+SIM-0045,2022-10-02,2022,After Lunch,9.1,Recorded,Midday,Normal
+SIM-0046,2023-03-13,2023,Before Breakfast,18.1,Recorded,Morning,Hyperglycaemia
+SIM-0047,2024-08-24,2024,After Breakfast,15.4,Recorded,Morning,Hyperglycaemia
+SIM-0048,2025-01-09,2025,Bedtime,,Declined,Evening,Not recorded
+SIM-0049,2026-06-20,2026,Night check,7.8,Recorded,Evening,Normal
+SIM-0050,2020-11-05,2020,Morning bed check,7.3,Recorded,Morning,Normal
+SIM-0051,2021-04-16,2021,After Breakfast,11.4,Recorded,Morning,Normal
+SIM-0052,2022-09-01,2022,Before Tea,15.8,Recorded,Evening,Hyperglycaemia
+SIM-0053,2023-02-12,2023,Before Lunch,12.0,Recorded,Midday,Normal
+SIM-0054,2024-07-23,2024,After Breakfast,16.7,Recorded,Morning,Hyperglycaemia
+SIM-0055,2025-12-08,2025,Before Tea,20.4,Recorded,Evening,Hyperglycaemia
+SIM-0056,2026-05-19,2026,Before Tea,6.5,Recorded,Evening,Normal
+SIM-0057,2020-10-04,2020,After Tea,10.3,Recorded,Evening,Normal
+SIM-0058,2021-03-15,2021,Bedtime,9.4,Recorded,Evening,Normal
+SIM-0059,2022-08-26,2022,Morning bed check,6.0,Recorded,Morning,Normal
+SIM-0060,2023-01-11,2023,After Tea,10.0,Recorded,Evening,Normal
+SIM-0061,2024-06-22,2024,After Tea,17.2,Recorded,Evening,Hyperglycaemia
+SIM-0062,2025-11-07,2025,Bedtime,9.3,Recorded,Evening,Normal
+SIM-0063,2026-04-18,2026,After Lunch,12.7,Recorded,Midday,Normal
+SIM-0064,2020-09-03,2020,Before Lunch,9.5,Recorded,Midday,Normal
+SIM-0065,2021-02-14,2021,Night check,13.4,Recorded,Evening,Normal
+SIM-0066,2022-07-25,2022,After Breakfast,16.8,Recorded,Morning,Hyperglycaemia
+SIM-0067,2023-12-10,2023,After Tea,11.9,Recorded,Evening,Normal
+SIM-0068,2024-05-21,2024,Before Lunch,14.4,Recorded,Midday,Normal
+SIM-0069,2025-10-06,2025,After Breakfast,10.7,Recorded,Morning,Normal
+SIM-0070,2026-03-17,2026,Morning bed check,14.4,Recorded,Morning,Normal
+SIM-0071,2020-08-02,2020,After Lunch,,Declined,Midday,Not recorded
+SIM-0072,2021-01-13,2021,Before Breakfast,11.8,Recorded,Morning,Normal
+SIM-0073,2022-06-24,2022,Before Breakfast,2.0,Recorded,Morning,Hypoglycaemia
+SIM-0074,2023-11-09,2023,Before Lunch,6.5,Recorded,Midday,Normal
+SIM-0075,2024-04-20,2024,After Tea,9.8,Recorded,Evening,Normal
+SIM-0076,2025-09-05,2025,Before Tea,7.7,Recorded,Evening,Normal
+SIM-0077,2026-02-16,2026,Declined,,Declined,Evening,Not recorded
+SIM-0078,2020-07-01,2020,Before Breakfast,4.3,Recorded,Morning,Normal
+SIM-0079,2021-12-12,2021,Declined,,Declined,Evening,Not recorded
+SIM-0080,2022-05-23,2022,Before Tea,9.7,Recorded,Evening,Normal
+SIM-0081,2023-10-08,2023,Bedtime,9.8,Recorded,Evening,Normal
+SIM-0082,2024-03-19,2024,Before Breakfast,4.2,Recorded,Morning,Normal
+SIM-0083,2025-08-04,2025,After Lunch,11.3,Recorded,Midday,Normal
+SIM-0084,2026-01-15,2026,Before Breakfast,13.3,Recorded,Morning,Normal
+SIM-0085,2020-06-26,2020,After Tea,11.8,Recorded,Evening,Normal
+SIM-0086,2021-11-11,2021,After Breakfast,4.1,Recorded,Morning,Normal
+SIM-0087,2022-04-22,2022,Declined,,Declined,Evening,Not recorded
+SIM-0088,2023-09-07,2023,Before Lunch,10.9,Recorded,Midday,Normal
+SIM-0089,2024-02-18,2024,Before Tea,2.0,Recorded,Evening,Hypoglycaemia
+SIM-0090,2025-07-03,2025,Bedtime,14.1,Recorded,Evening,Normal
+SIM-0091,2026-12-14,2026,Before Lunch,7.5,Recorded,Midday,Normal
+SIM-0092,2020-05-25,2020,Before Breakfast,12.0,Recorded,Morning,Normal
+SIM-0093,2021-10-10,2021,Declined,,Declined,Evening,Not recorded
+SIM-0094,2022-03-21,2022,After Lunch,14.1,Recorded,Midday,Normal
+SIM-0095,2023-08-06,2023,Before Lunch,9.9,Recorded,Midday,Normal
+SIM-0096,2024-01-17,2024,After Breakfast,14.6,Recorded,Morning,Normal
+SIM-0097,2025-06-02,2025,Bedtime,16.5,Recorded,Evening,Hyperglycaemia
+SIM-0098,2026-11-13,2026,After Breakfast,16.7,Recorded,Morning,Hyperglycaemia
+SIM-0099,2020-04-24,2020,After Lunch,6.2,Recorded,Midday,Normal
+SIM-0100,2021-09-09,2021,Before Lunch,16.5,Recorded,Midday,Hyperglycaemia
+SIM-0101,2022-02-20,2022,Before Tea,6.6,Recorded,Evening,Normal
+SIM-0102,2023-07-05,2023,Night check,11.8,Recorded,Evening,Normal
+SIM-0103,2024-12-16,2024,After Tea,11.4,Recorded,Evening,Normal
+SIM-0104,2025-05-01,2025,Bedtime,17.7,Recorded,Evening,Hyperglycaemia
+SIM-0105,2026-10-12,2026,Bedtime,12.9,Recorded,Evening,Normal
+SIM-0106,2020-03-23,2020,Before Breakfast,7.9,Recorded,Morning,Normal
+SIM-0107,2021-08-08,2021,Before Tea,6.0,Recorded,Evening,Normal
+SIM-0108,2022-01-19,2022,Before Lunch,10.1,Recorded,Midday,Normal
+SIM-0109,2023-06-04,2023,After Tea,10.6,Recorded,Evening,Normal
+SIM-0110,2024-11-15,2024,After Lunch,11.6,Recorded,Midday,Normal
+SIM-0111,2025-04-26,2025,Before Breakfast,6.3,Recorded,Morning,Normal
+SIM-0112,2026-09-11,2026,Declined,,Declined,Evening,Not recorded
+SIM-0113,2020-02-22,2020,Declined,,Declined,Evening,Not recorded
+SIM-0114,2021-07-07,2021,Morning bed check,,Declined,Morning,Not recorded
+SIM-0115,2022-12-18,2022,Before Tea,11.9,Recorded,Evening,Normal
+SIM-0116,2023-05-03,2023,Before Tea,9.4,Recorded,Evening,Normal
+SIM-0117,2024-10-14,2024,After Breakfast,15.0,Recorded,Morning,Normal
+SIM-0118,2025-03-25,2025,Before Tea,11.2,Recorded,Evening,Normal
+SIM-0119,2026-08-10,2026,Night check,12.0,Recorded,Evening,Normal
+SIM-0120,2020-01-21,2020,Before Lunch,3.2,Recorded,Midday,Hypoglycaemia
+SIM-0121,2021-06-06,2021,Night check,6.7,Recorded,Evening,Normal
+SIM-0122,2022-11-17,2022,After Lunch,12.4,Recorded,Midday,Normal
+SIM-0123,2023-04-02,2023,Declined,,Declined,Evening,Not recorded
+SIM-0124,2024-09-13,2024,Before Breakfast,5.2,Recorded,Morning,Normal
+SIM-0125,2025-02-24,2025,Bedtime,10.7,Recorded,Evening,Normal
+SIM-0126,2026-07-09,2026,Morning bed check,7.0,Recorded,Morning,Normal
+SIM-0127,2020-12-20,2020,Night check,13.2,Recorded,Evening,Normal
+SIM-0128,2021-05-05,2021,After Breakfast,8.4,Recorded,Morning,Normal
+SIM-0129,2022-10-16,2022,After Lunch,4.7,Recorded,Midday,Normal
+SIM-0130,2023-03-01,2023,After Tea,15.9,Recorded,Evening,Hyperglycaemia
+SIM-0131,2024-08-12,2024,Before Breakfast,11.8,Recorded,Morning,Normal
+SIM-0132,2025-01-23,2025,Before Tea,9.3,Recorded,Evening,Normal
+SIM-0133,2026-06-08,2026,Before Tea,5.6,Recorded,Evening,Normal
+SIM-0134,2020-11-19,2020,After Breakfast,5.6,Recorded,Morning,Normal
+SIM-0135,2021-04-04,2021,Before Tea,8.2,Recorded,Evening,Normal
+SIM-0136,2022-09-15,2022,Before Tea,9.3,Recorded,Evening,Normal
+SIM-0137,2023-02-26,2023,Bedtime,7.4,Recorded,Evening,Normal
+SIM-0138,2024-07-11,2024,After Tea,9.2,Recorded,Evening,Normal
+SIM-0139,2025-12-22,2025,After Breakfast,7.2,Recorded,Morning,Normal
+SIM-0140,2026-05-07,2026,Declined,,Declined,Evening,Not recorded
+SIM-0141,2020-10-18,2020,After Lunch,4.0,Recorded,Midday,Normal
+SIM-0142,2021-03-03,2021,Before Tea,7.4,Recorded,Evening,Normal
+SIM-0143,2022-08-14,2022,Bedtime,9.3,Recorded,Evening,Normal
+SIM-0144,2023-01-25,2023,After Tea,4.5,Recorded,Evening,Normal
+SIM-0145,2024-06-10,2024,Night check,4.4,Recorded,Evening,Normal
+SIM-0146,2025-11-21,2025,Morning bed check,15.2,Recorded,Morning,Hyperglycaemia
+SIM-0147,2026-04-06,2026,After Breakfast,12.6,Recorded,Morning,Normal
+SIM-0148,2020-09-17,2020,Bedtime,10.3,Recorded,Evening,Normal
+SIM-0149,2021-02-02,2021,Before Tea,2.0,Recorded,Evening,Hypoglycaemia
+SIM-0150,2022-07-13,2022,Before Breakfast,13.7,Recorded,Morning,Normal
+SIM-0151,2023-12-24,2023,Bedtime,8.5,Recorded,Evening,Normal
+SIM-0152,2024-05-09,2024,After Lunch,14.7,Recorded,Midday,Normal
+SIM-0153,2025-10-20,2025,Declined,,Declined,Evening,Not recorded
+SIM-0154,2026-03-05,2026,Before Breakfast,9.7,Recorded,Morning,Normal
+SIM-0155,2020-08-16,2020,After Tea,11.6,Recorded,Evening,Normal
+SIM-0156,2021-01-01,2021,Bedtime,14.0,Recorded,Evening,Normal
+SIM-0157,2022-06-12,2022,Bedtime,11.3,Recorded,Evening,Normal
+SIM-0158,2023-11-23,2023,After Tea,5.1,Recorded,Evening,Normal
+SIM-0159,2024-04-08,2024,Before Lunch,8.4,Recorded,Midday,Normal
+SIM-0160,2025-09-19,2025,Declined,,Declined,Evening,Not recorded
+SIM-0161,2026-02-04,2026,After Lunch,15.2,Recorded,Midday,Hyperglycaemia
+SIM-0162,2020-07-15,2020,Bedtime,14.9,Recorded,Evening,Normal
+SIM-0163,2021-12-26,2021,Bedtime,16.1,Recorded,Evening,Hyperglycaemia
+SIM-0164,2022-05-11,2022,Bedtime,11.1,Recorded,Evening,Normal
+SIM-0165,2023-10-22,2023,After Tea,11.6,Recorded,Evening,Normal
+SIM-0166,2024-03-07,2024,Before Lunch,8.5,Recorded,Midday,Normal
+SIM-0167,2025-08-18,2025,After Breakfast,13.3,Recorded,Morning,Normal
+SIM-0168,2026-01-03,2026,After Breakfast,16.7,Recorded,Morning,Hyperglycaemia
+SIM-0169,2020-06-14,2020,Before Tea,11.4,Recorded,Evening,Normal
+SIM-0170,2021-11-25,2021,Night check,12.3,Recorded,Evening,Normal
+SIM-0171,2022-04-10,2022,After Breakfast,8.1,Recorded,Morning,Normal
+SIM-0172,2023-09-21,2023,Bedtime,20.6,Recorded,Evening,Hyperglycaemia
+SIM-0173,2024-02-06,2024,Before Lunch,7.3,Recorded,Midday,Normal
+SIM-0174,2025-07-17,2025,Before Lunch,14.1,Recorded,Midday,Normal
+SIM-0175,2026-12-02,2026,Night check,16.0,Recorded,Evening,Hyperglycaemia
+SIM-0176,2020-05-13,2020,Declined,,Declined,Evening,Not recorded
+SIM-0177,2021-10-24,2021,Bedtime,9.6,Recorded,Evening,Normal
+SIM-0178,2022-03-09,2022,After Lunch,11.5,Recorded,Midday,Normal
+SIM-0179,2023-08-20,2023,Before Tea,9.6,Recorded,Evening,Normal
+SIM-0180,2024-01-05,2024,Declined,,Declined,Evening,Not recorded
+SIM-0181,2025-06-16,2025,Bedtime,15.2,Recorded,Evening,Hyperglycaemia
+SIM-0182,2026-11-01,2026,After Tea,13.6,Recorded,Evening,Normal
+SIM-0183,2020-04-12,2020,Bedtime,12.7,Recorded,Evening,Normal
+SIM-0184,2021-09-23,2021,Declined,,Declined,Evening,Not recorded
+SIM-0185,2022-02-08,2022,After Breakfast,5.8,Recorded,Morning,Normal
+SIM-0186,2023-07-19,2023,After Breakfast,7.0,Recorded,Morning,Normal
+SIM-0187,2024-12-04,2024,Declined,,Declined,Evening,Not recorded
+SIM-0188,2025-05-15,2025,After Breakfast,10.6,Recorded,Morning,Normal
+SIM-0189,2026-10-26,2026,After Tea,16.6,Recorded,Evening,Hyperglycaemia
+SIM-0190,2020-03-11,2020,Before Breakfast,8.3,Recorded,Morning,Normal
+SIM-0191,2021-08-22,2021,Bedtime,12.1,Recorded,Evening,Normal
+SIM-0192,2022-01-07,2022,After Lunch,11.6,Recorded,Midday,Normal
+SIM-0193,2023-06-18,2023,Night check,6.4,Recorded,Evening,Normal
+SIM-0194,2024-11-03,2024,Morning bed check,,Declined,Morning,Not recorded
+SIM-0195,2025-04-14,2025,Before Breakfast,11.3,Recorded,Morning,Normal
+SIM-0196,2026-09-25,2026,After Breakfast,15.0,Recorded,Morning,Normal
+SIM-0197,2020-02-10,2020,After Breakfast,19.4,Recorded,Morning,Hyperglycaemia
+SIM-0198,2021-07-21,2021,Before Lunch,6.5,Recorded,Midday,Normal
+SIM-0199,2022-12-06,2022,Declined,,Declined,Evening,Not recorded
+SIM-0200,2023-05-17,2023,Before Tea,19.0,Recorded,Evening,Hyperglycaemia
+SIM-0201,2024-10-02,2024,After Tea,16.6,Recorded,Evening,Hyperglycaemia
+SIM-0202,2025-03-13,2025,Night check,8.9,Recorded,Evening,Normal
+SIM-0203,2026-08-24,2026,After Tea,9.8,Recorded,Evening,Normal
+SIM-0204,2020-01-09,2020,Bedtime,9.8,Recorded,Evening,Normal
+SIM-0205,2021-06-20,2021,Bedtime,10.1,Recorded,Evening,Normal
+SIM-0206,2022-11-05,2022,Declined,,Declined,Evening,Not recorded
+SIM-0207,2023-04-16,2023,After Tea,11.7,Recorded,Evening,Normal
+SIM-0208,2024-09-01,2024,After Tea,11.8,Recorded,Evening,Normal
+SIM-0209,2025-02-12,2025,After Tea,14.6,Recorded,Evening,Normal
+SIM-0210,2026-07-23,2026,After Tea,18.7,Recorded,Evening,Hyperglycaemia
+SIM-0211,2020-12-08,2020,Before Breakfast,12.6,Recorded,Morning,Normal
+SIM-0212,2021-05-19,2021,Before Breakfast,13.9,Recorded,Morning,Normal
+SIM-0213,2022-10-04,2022,Morning bed check,7.1,Recorded,Morning,Normal
+SIM-0214,2023-03-15,2023,After Breakfast,13.7,Recorded,Morning,Normal
+SIM-0215,2024-08-26,2024,Before Breakfast,4.7,Recorded,Morning,Normal
+SIM-0216,2025-01-11,2025,After Tea,5.9,Recorded,Evening,Normal
+SIM-0217,2026-06-22,2026,After Lunch,15.2,Recorded,Midday,Hyperglycaemia
+SIM-0218,2020-11-07,2020,Before Tea,8.4,Recorded,Evening,Normal
+SIM-0219,2021-04-18,2021,Before Tea,10.1,Recorded,Evening,Normal
+SIM-0220,2022-09-03,2022,Before Breakfast,11.3,Recorded,Morning,Normal
+SIM-0221,2023-02-14,2023,Morning bed check,14.5,Recorded,Morning,Normal
+SIM-0222,2024-07-25,2024,After Breakfast,16.5,Recorded,Morning,Hyperglycaemia
+SIM-0223,2025-12-10,2025,Bedtime,5.3,Recorded,Evening,Normal
+SIM-0224,2026-05-21,2026,After Lunch,10.3,Recorded,Midday,Normal
+SIM-0225,2020-10-06,2020,After Tea,5.3,Recorded,Evening,Normal
+SIM-0226,2021-03-17,2021,Bedtime,6.9,Recorded,Evening,Normal
+SIM-0227,2022-08-02,2022,After Lunch,6.9,Recorded,Midday,Normal
+SIM-0228,2023-01-13,2023,Declined,,Declined,Evening,Not recorded
+SIM-0229,2024-06-24,2024,After Breakfast,12.3,Recorded,Morning,Normal
+SIM-0230,2025-11-09,2025,Before Tea,9.2,Recorded,Evening,Normal
+SIM-0231,2026-04-20,2026,Before Lunch,12.2,Recorded,Midday,Normal
+SIM-0232,2020-09-05,2020,After Tea,5.2,Recorded,Evening,Normal
+SIM-0233,2021-02-16,2021,After Lunch,10.4,Recorded,Midday,Normal
+SIM-0234,2022-07-01,2022,After Lunch,8.9,Recorded,Midday,Normal
+SIM-0235,2023-12-12,2023,Bedtime,15.6,Recorded,Evening,Hyperglycaemia
+SIM-0236,2024-05-23,2024,Declined,,Declined,Evening,Not recorded
+SIM-0237,2025-10-08,2025,Before Breakfast,13.6,Recorded,Morning,Normal
+SIM-0238,2026-03-19,2026,Before Breakfast,15.7,Recorded,Morning,Hyperglycaemia
+SIM-0239,2020-08-04,2020,Bedtime,10.6,Recorded,Evening,Normal
+SIM-0240,2021-01-15,2021,Before Breakfast,13.4,Recorded,Morning,Normal
+SIM-0241,2022-06-26,2022,After Lunch,13.9,Recorded,Midday,Normal
+SIM-0242,2023-11-11,2023,Before Tea,15.4,Recorded,Evening,Hyperglycaemia
+SIM-0243,2024-04-22,2024,Before Breakfast,2.0,Recorded,Morning,Hypoglycaemia
+SIM-0244,2025-09-07,2025,After Breakfast,18.0,Recorded,Morning,Hyperglycaemia
+SIM-0245,2026-02-18,2026,Morning bed check,11.8,Recorded,Morning,Normal
+SIM-0246,2020-07-03,2020,Morning bed check,10.7,Recorded,Morning,Normal
+SIM-0247,2021-12-14,2021,Before Tea,4.6,Recorded,Evening,Normal
+SIM-0248,2022-05-25,2022,Bedtime,7.9,Recorded,Evening,Normal
+SIM-0249,2023-10-10,2023,Before Tea,11.3,Recorded,Evening,Normal
+SIM-0250,2024-03-21,2024,Morning bed check,4.6,Recorded,Morning,Normal
+SIM-0251,2025-08-06,2025,Before Breakfast,9.8,Recorded,Morning,Normal
+SIM-0252,2026-01-17,2026,Before Breakfast,11.4,Recorded,Morning,Normal
+SIM-0253,2020-06-02,2020,Bedtime,6.6,Recorded,Evening,Normal
+SIM-0254,2021-11-13,2021,Declined,,Declined,Evening,Not recorded
+SIM-0255,2022-04-24,2022,Before Breakfast,11.3,Recorded,Morning,Normal
+SIM-0256,2023-09-09,2023,Bedtime,9.5,Recorded,Evening,Normal
+SIM-0257,2024-02-20,2024,Morning bed check,11.8,Recorded,Morning,Normal
+SIM-0258,2025-07-05,2025,Before Breakfast,12.0,Recorded,Morning,Normal
+SIM-0259,2026-12-16,2026,Before Lunch,11.9,Recorded,Midday,Normal
+SIM-0260,2020-05-01,2020,Bedtime,13.7,Recorded,Evening,Normal
+SIM-0261,2021-10-12,2021,After Tea,11.5,Recorded,Evening,Normal
+SIM-0262,2022-03-23,2022,After Lunch,8.5,Recorded,Midday,Normal
+SIM-0263,2023-08-08,2023,After Tea,13.1,Recorded,Evening,Normal
+SIM-0264,2024-01-19,2024,Night check,5.8,Recorded,Evening,Normal
+SIM-0265,2025-06-04,2025,Morning bed check,9.3,Recorded,Morning,Normal
+SIM-0266,2026-11-15,2026,Bedtime,10.7,Recorded,Evening,Normal
+SIM-0267,2020-04-26,2020,Bedtime,11.1,Recorded,Evening,Normal
+SIM-0268,2021-09-11,2021,Declined,,Declined,Evening,Not recorded
+SIM-0269,2022-02-22,2022,Before Breakfast,16.8,Recorded,Morning,Hyperglycaemia
+SIM-0270,2023-07-07,2023,Bedtime,,Declined,Evening,Not recorded
+SIM-0271,2024-12-18,2024,Before Breakfast,9.3,Recorded,Morning,Normal
+SIM-0272,2025-05-03,2025,Before Lunch,8.1,Recorded,Midday,Normal
+SIM-0273,2026-10-14,2026,After Tea,6.1,Recorded,Evening,Normal
+SIM-0274,2020-03-25,2020,After Tea,15.7,Recorded,Evening,Hyperglycaemia
+SIM-0275,2021-08-10,2021,Bedtime,5.6,Recorded,Evening,Normal
+SIM-0276,2022-01-21,2022,Before Tea,16.5,Recorded,Evening,Hyperglycaemia
+SIM-0277,2023-06-06,2023,After Lunch,9.1,Recorded,Midday,Normal
+SIM-0278,2024-11-17,2024,After Lunch,12.3,Recorded,Midday,Normal
+SIM-0279,2025-04-02,2025,After Breakfast,14.5,Recorded,Morning,Normal
+SIM-0280,2026-09-13,2026,After Tea,9.9,Recorded,Evening,Normal
+SIM-0281,2020-02-24,2020,Before Lunch,13.5,Recorded,Midday,Normal
+SIM-0282,2021-07-09,2021,Bedtime,9.5,Recorded,Evening,Normal
+SIM-0283,2022-12-20,2022,After Lunch,14.1,Recorded,Midday,Normal
+SIM-0284,2023-05-05,2023,Before Breakfast,12.8,Recorded,Morning,Normal
+SIM-0285,2024-10-16,2024,Before Lunch,11.6,Recorded,Midday,Normal
+SIM-0286,2025-03-01,2025,Bedtime,18.1,Recorded,Evening,Hyperglycaemia
+SIM-0287,2026-08-12,2026,Before Breakfast,18.1,Recorded,Morning,Hyperglycaemia
+SIM-0288,2020-01-23,2020,After Tea,12.3,Recorded,Evening,Normal
+SIM-0289,2021-06-08,2021,Before Tea,12.7,Recorded,Evening,Normal
+SIM-0290,2022-11-19,2022,After Tea,13.2,Recorded,Evening,Normal
+SIM-0291,2023-04-04,2023,After Lunch,8.7,Recorded,Midday,Normal
+SIM-0292,2024-09-15,2024,Before Breakfast,12.6,Recorded,Morning,Normal
+SIM-0293,2025-02-26,2025,Morning bed check,15.9,Recorded,Morning,Hyperglycaemia
+SIM-0294,2026-07-11,2026,Declined,,Declined,Evening,Not recorded
+SIM-0295,2020-12-22,2020,After Tea,8.1,Recorded,Evening,Normal
+SIM-0296,2021-05-07,2021,After Lunch,9.3,Recorded,Midday,Normal
+SIM-0297,2022-10-18,2022,After Lunch,2.5,Recorded,Midday,Hypoglycaemia
+SIM-0298,2023-03-03,2023,Declined,,Declined,Evening,Not recorded
+SIM-0299,2024-08-14,2024,After Tea,14.1,Recorded,Evening,Normal
+SIM-0300,2025-01-25,2025,Night check,15.3,Recorded,Evening,Hyperglycaemia
+SIM-0301,2026-06-10,2026,After Breakfast,14.9,Recorded,Morning,Normal
+SIM-0302,2020-11-21,2020,Night check,14.5,Recorded,Evening,Normal
+SIM-0303,2021-04-06,2021,Before Breakfast,11.5,Recorded,Morning,Normal
+SIM-0304,2022-09-17,2022,Before Lunch,6.1,Recorded,Midday,Normal
+SIM-0305,2023-02-02,2023,Morning bed check,15.2,Recorded,Morning,Hyperglycaemia
+SIM-0306,2024-07-13,2024,After Breakfast,2.0,Recorded,Morning,Hypoglycaemia
+SIM-0307,2025-12-24,2025,Bedtime,15.6,Recorded,Evening,Hyperglycaemia
+SIM-0308,2026-05-09,2026,After Breakfast,9.7,Recorded,Morning,Normal
+SIM-0309,2020-10-20,2020,After Tea,11.3,Recorded,Evening,Normal
+SIM-0310,2021-03-05,2021,After Breakfast,11.9,Recorded,Morning,Normal
+SIM-0311,2022-08-16,2022,Before Breakfast,14.0,Recorded,Morning,Normal
+SIM-0312,2023-01-01,2023,Declined,,Declined,Evening,Not recorded
+SIM-0313,2024-06-12,2024,After Tea,10.3,Recorded,Evening,Normal
+SIM-0314,2025-11-23,2025,Bedtime,12.7,Recorded,Evening,Normal
+SIM-0315,2026-04-08,2026,Morning bed check,12.2,Recorded,Morning,Normal
+SIM-0316,2020-09-19,2020,Before Tea,12.0,Recorded,Evening,Normal
+SIM-0317,2021-02-04,2021,Before Breakfast,17.8,Recorded,Morning,Hyperglycaemia
+SIM-0318,2022-07-15,2022,Morning bed check,5.3,Recorded,Morning,Normal
+SIM-0319,2023-12-26,2023,Morning bed check,14.5,Recorded,Morning,Normal
+SIM-0320,2024-05-11,2024,Before Lunch,16.8,Recorded,Midday,Hyperglycaemia
+SIM-0321,2025-10-22,2025,Declined,,Declined,Evening,Not recorded
+SIM-0322,2026-03-07,2026,After Breakfast,16.1,Recorded,Morning,Hyperglycaemia
+SIM-0323,2020-08-18,2020,After Breakfast,11.6,Recorded,Morning,Normal
+SIM-0324,2021-01-03,2021,After Tea,14.7,Recorded,Evening,Normal
+SIM-0325,2022-06-14,2022,Night check,6.2,Recorded,Evening,Normal
+SIM-0326,2023-11-25,2023,After Lunch,13.2,Recorded,Midday,Normal
+SIM-0327,2024-04-10,2024,After Lunch,7.7,Recorded,Midday,Normal
+SIM-0328,2025-09-21,2025,Bedtime,14.3,Recorded,Evening,Normal
+SIM-0329,2026-02-06,2026,After Breakfast,19.8,Recorded,Morning,Hyperglycaemia
+SIM-0330,2020-07-17,2020,After Tea,11.2,Recorded,Evening,Normal
+SIM-0331,2021-12-02,2021,Bedtime,15.2,Recorded,Evening,Hyperglycaemia
+SIM-0332,2022-05-13,2022,Bedtime,8.7,Recorded,Evening,Normal
+SIM-0333,2023-10-24,2023,After Lunch,17.1,Recorded,Midday,Hyperglycaemia
+SIM-0334,2024-03-09,2024,Night check,11.7,Recorded,Evening,Normal
+SIM-0335,2025-08-20,2025,Before Tea,17.4,Recorded,Evening,Hyperglycaemia
+SIM-0336,2026-01-05,2026,After Breakfast,6.8,Recorded,Morning,Normal
+SIM-0337,2020-06-16,2020,Before Lunch,11.2,Recorded,Midday,Normal
+SIM-0338,2021-11-01,2021,Before Tea,12.3,Recorded,Evening,Normal
+SIM-0339,2022-04-12,2022,Declined,,Declined,Evening,Not recorded
+SIM-0340,2023-09-23,2023,After Tea,12.4,Recorded,Evening,Normal
+SIM-0341,2024-02-08,2024,Before Lunch,17.8,Recorded,Midday,Hyperglycaemia
+SIM-0342,2025-07-19,2025,Declined,,Declined,Evening,Not recorded
+SIM-0343,2026-12-04,2026,Morning bed check,6.6,Recorded,Morning,Normal
+SIM-0344,2020-05-15,2020,Declined,,Declined,Evening,Not recorded
+SIM-0345,2021-10-26,2021,After Breakfast,12.9,Recorded,Morning,Normal
+SIM-0346,2022-03-11,2022,Bedtime,10.0,Recorded,Evening,Normal
+SIM-0347,2023-08-22,2023,Declined,,Declined,Evening,Not recorded
+SIM-0348,2024-01-07,2024,Before Lunch,11.1,Recorded,Midday,Normal
+SIM-0349,2025-06-18,2025,After Breakfast,17.1,Recorded,Morning,Hyperglycaemia
+SIM-0350,2026-11-03,2026,Declined,,Declined,Evening,Not recorded
+SIM-0351,2020-04-14,2020,Night check,14.5,Recorded,Evening,Normal
+SIM-0352,2021-09-25,2021,Before Tea,9.6,Recorded,Evening,Normal
+SIM-0353,2022-02-10,2022,After Tea,8.8,Recorded,Evening,Normal
+SIM-0354,2023-07-21,2023,Before Lunch,14.2,Recorded,Midday,Normal
+SIM-0355,2024-12-06,2024,Before Lunch,9.5,Recorded,Midday,Normal
+SIM-0356,2025-05-17,2025,Bedtime,6.4,Recorded,Evening,Normal
+SIM-0357,2026-10-02,2026,After Tea,15.1,Recorded,Evening,Hyperglycaemia
+SIM-0358,2020-03-13,2020,After Lunch,13.8,Recorded,Midday,Normal
+SIM-0359,2021-08-24,2021,Bedtime,10.8,Recorded,Evening,Normal
+SIM-0360,2022-01-09,2022,Bedtime,,Declined,Evening,Not recorded
+SIM-0361,2023-06-20,2023,After Breakfast,4.9,Recorded,Morning,Normal
+SIM-0362,2024-11-05,2024,Before Lunch,11.3,Recorded,Midday,Normal
+SIM-0363,2025-04-16,2025,After Tea,12.7,Recorded,Evening,Normal
+SIM-0364,2026-09-01,2026,Before Breakfast,13.0,Recorded,Morning,Normal
+SIM-0365,2020-02-12,2020,Morning bed check,5.0,Recorded,Morning,Normal
+SIM-0366,2021-07-23,2021,Before Lunch,10.6,Recorded,Midday,Normal
+SIM-0367,2022-12-08,2022,Bedtime,4.1,Recorded,Evening,Normal
+SIM-0368,2023-05-19,2023,Before Breakfast,6.8,Recorded,Morning,Normal
+SIM-0369,2024-10-04,2024,Morning bed check,10.4,Recorded,Morning,Normal
+SIM-0370,2025-03-15,2025,Before Breakfast,9.6,Recorded,Morning,Normal
+SIM-0371,2026-08-26,2026,Before Breakfast,8.7,Recorded,Morning,Normal
+SIM-0372,2020-01-11,2020,Declined,,Declined,Evening,Not recorded
+SIM-0373,2021-06-22,2021,After Tea,16.7,Recorded,Evening,Hyperglycaemia
+SIM-0374,2022-11-07,2022,Morning bed check,3.6,Recorded,Morning,Hypoglycaemia
+SIM-0375,2023-04-18,2023,Bedtime,18.2,Recorded,Evening,Hyperglycaemia
+SIM-0376,2024-09-03,2024,Morning bed check,11.0,Recorded,Morning,Normal
+SIM-0377,2025-02-14,2025,Before Lunch,11.8,Recorded,Midday,Normal
+SIM-0378,2026-07-25,2026,After Tea,9.9,Recorded,Evening,Normal
+SIM-0379,2020-12-10,2020,After Lunch,4.6,Recorded,Midday,Normal
+SIM-0380,2021-05-21,2021,Before Breakfast,8.6,Recorded,Morning,Normal
+SIM-0381,2022-10-06,2022,Declined,,Declined,Evening,Not recorded
+SIM-0382,2023-03-17,2023,Night check,15.8,Recorded,Evening,Hyperglycaemia
+SIM-0383,2024-08-02,2024,After Breakfast,10.7,Recorded,Morning,Normal
+SIM-0384,2025-01-13,2025,After Breakfast,12.3,Recorded,Morning,Normal
+SIM-0385,2026-06-24,2026,Before Tea,8.2,Recorded,Evening,Normal
+SIM-0386,2020-11-09,2020,After Breakfast,11.2,Recorded,Morning,Normal
+SIM-0387,2021-04-20,2021,Night check,9.4,Recorded,Evening,Normal
+SIM-0388,2022-09-05,2022,Before Lunch,13.8,Recorded,Midday,Normal
+SIM-0389,2023-02-16,2023,After Lunch,13.3,Recorded,Midday,Normal
+SIM-0390,2024-07-01,2024,Before Breakfast,11.1,Recorded,Morning,Normal
+SIM-0391,2025-12-12,2025,After Breakfast,7.6,Recorded,Morning,Normal
+SIM-0392,2026-05-23,2026,After Tea,8.1,Recorded,Evening,Normal
+SIM-0393,2020-10-08,2020,After Lunch,,Declined,Midday,Not recorded
+SIM-0394,2021-03-19,2021,Before Tea,15.5,Recorded,Evening,Hyperglycaemia
+SIM-0395,2022-08-04,2022,Morning bed check,19.1,Recorded,Morning,Hyperglycaemia
+SIM-0396,2023-01-15,2023,Before Tea,10.7,Recorded,Evening,Normal
+SIM-0397,2024-06-26,2024,After Tea,5.9,Recorded,Evening,Normal
+SIM-0398,2025-11-11,2025,Before Breakfast,2.7,Recorded,Morning,Hypoglycaemia
+SIM-0399,2026-04-22,2026,After Lunch,11.0,Recorded,Midday,Normal
+SIM-0400,2020-09-07,2020,Before Tea,8.2,Recorded,Evening,Normal
+SIM-0401,2021-02-18,2021,Before Lunch,8.5,Recorded,Midday,Normal
+SIM-0402,2022-07-03,2022,Bedtime,3.0,Recorded,Evening,Hypoglycaemia
+SIM-0403,2023-12-14,2023,After Breakfast,19.1,Recorded,Morning,Hyperglycaemia
+SIM-0404,2024-05-25,2024,Before Tea,12.8,Recorded,Evening,Normal
+SIM-0405,2025-10-10,2025,Bedtime,12.3,Recorded,Evening,Normal
+SIM-0406,2026-03-21,2026,Before Lunch,10.7,Recorded,Midday,Normal
+SIM-0407,2020-08-06,2020,After Lunch,6.7,Recorded,Midday,Normal
+SIM-0408,2021-01-17,2021,Bedtime,10.1,Recorded,Evening,Normal
+SIM-0409,2022-06-02,2022,After Lunch,,Declined,Midday,Not recorded
+SIM-0410,2023-11-13,2023,Before Breakfast,,Declined,Morning,Not recorded
+SIM-0411,2024-04-24,2024,Before Breakfast,9.0,Recorded,Morning,Normal
+SIM-0412,2025-09-09,2025,After Tea,15.3,Recorded,Evening,Hyperglycaemia
+SIM-0413,2026-02-20,2026,Morning bed check,10.6,Recorded,Morning,Normal
+SIM-0414,2020-07-05,2020,Before Breakfast,2.7,Recorded,Morning,Hypoglycaemia
+SIM-0415,2021-12-16,2021,After Lunch,6.1,Recorded,Midday,Normal
+SIM-0416,2022-05-01,2022,Bedtime,7.4,Recorded,Evening,Normal
+SIM-0417,2023-10-12,2023,Morning bed check,17.3,Recorded,Morning,Hyperglycaemia
+SIM-0418,2024-03-23,2024,After Lunch,4.1,Recorded,Midday,Normal
+SIM-0419,2025-08-08,2025,Night check,7.8,Recorded,Evening,Normal
+SIM-0420,2026-01-19,2026,Before Breakfast,4.3,Recorded,Morning,Normal
+SIM-0421,2020-06-04,2020,Before Tea,5.4,Recorded,Evening,Normal
+SIM-0422,2021-11-15,2021,Bedtime,12.7,Recorded,Evening,Normal
+SIM-0423,2022-04-26,2022,Before Breakfast,11.2,Recorded,Morning,Normal
+SIM-0424,2023-09-11,2023,After Lunch,9.0,Recorded,Midday,Normal
+SIM-0425,2024-02-22,2024,Before Breakfast,9.5,Recorded,Morning,Normal
+SIM-0426,2025-07-07,2025,After Tea,4.6,Recorded,Evening,Normal
+SIM-0427,2026-12-18,2026,Bedtime,12.6,Recorded,Evening,Normal
+SIM-0428,2020-05-03,2020,Night check,9.6,Recorded,Evening,Normal
+SIM-0429,2021-10-14,2021,Bedtime,7.3,Recorded,Evening,Normal
+SIM-0430,2022-03-25,2022,Before Tea,7.1,Recorded,Evening,Normal
+SIM-0431,2023-08-10,2023,After Tea,8.3,Recorded,Evening,Normal
+SIM-0432,2024-01-21,2024,Before Tea,3.1,Recorded,Evening,Hypoglycaemia
+SIM-0433,2025-06-06,2025,Before Breakfast,,Declined,Morning,Not recorded
+SIM-0434,2026-11-17,2026,After Tea,11.0,Recorded,Evening,Normal
+SIM-0435,2020-04-02,2020,After Breakfast,5.6,Recorded,Morning,Normal
+SIM-0436,2021-09-13,2021,After Lunch,,Declined,Midday,Not recorded
+SIM-0437,2022-02-24,2022,After Lunch,4.2,Recorded,Midday,Normal
+SIM-0438,2023-07-09,2023,Before Tea,8.8,Recorded,Evening,Normal
+SIM-0439,2024-12-20,2024,After Tea,5.8,Recorded,Evening,Normal
+SIM-0440,2025-05-05,2025,Before Breakfast,14.2,Recorded,Morning,Normal
+SIM-0441,2026-10-16,2026,After Lunch,12.0,Recorded,Midday,Normal
+SIM-0442,2020-03-01,2020,Before Lunch,2.8,Recorded,Midday,Hypoglycaemia
+SIM-0443,2021-08-12,2021,Before Breakfast,13.2,Recorded,Morning,Normal
+SIM-0444,2022-01-23,2022,Bedtime,,Declined,Evening,Not recorded
+SIM-0445,2023-06-08,2023,Before Tea,12.0,Recorded,Evening,Normal
+SIM-0446,2024-11-19,2024,After Tea,18.2,Recorded,Evening,Hyperglycaemia
+SIM-0447,2025-04-04,2025,Bedtime,13.9,Recorded,Evening,Normal
+SIM-0448,2026-09-15,2026,Before Tea,23.0,Recorded,Evening,Hyperglycaemia
+SIM-0449,2020-02-26,2020,Bedtime,10.1,Recorded,Evening,Normal
+SIM-0450,2021-07-11,2021,Before Breakfast,14.8,Recorded,Morning,Normal
+SIM-0451,2022-12-22,2022,After Lunch,12.3,Recorded,Midday,Normal
+SIM-0452,2023-05-07,2023,Bedtime,12.4,Recorded,Evening,Normal
+SIM-0453,2024-10-18,2024,After Lunch,17.3,Recorded,Midday,Hyperglycaemia
+SIM-0454,2025-03-03,2025,Night check,16.1,Recorded,Evening,Hyperglycaemia
+SIM-0455,2026-08-14,2026,After Lunch,6.5,Recorded,Midday,Normal
+SIM-0456,2020-01-25,2020,After Breakfast,12.7,Recorded,Morning,Normal
+SIM-0457,2021-06-10,2021,Before Lunch,2.0,Recorded,Midday,Hypoglycaemia
+SIM-0458,2022-11-21,2022,Morning bed check,12.9,Recorded,Morning,Normal
+SIM-0459,2023-04-06,2023,After Tea,7.6,Recorded,Evening,Normal
+SIM-0460,2024-09-17,2024,After Breakfast,8.1,Recorded,Morning,Normal
+SIM-0461,2025-02-02,2025,After Lunch,9.3,Recorded,Midday,Normal
+SIM-0462,2026-07-13,2026,Declined,,Declined,Evening,Not recorded
+SIM-0463,2020-12-24,2020,Morning bed check,6.0,Recorded,Morning,Normal
+SIM-0464,2021-05-09,2021,After Lunch,14.3,Recorded,Midday,Normal
+SIM-0465,2022-10-20,2022,Before Lunch,9.2,Recorded,Midday,Normal
+SIM-0466,2023-03-05,2023,Night check,,Declined,Evening,Not recorded
+SIM-0467,2024-08-16,2024,Before Breakfast,13.1,Recorded,Morning,Normal
+SIM-0468,2025-01-01,2025,Bedtime,13.7,Recorded,Evening,Normal
+SIM-0469,2026-06-12,2026,Morning bed check,14.9,Recorded,Morning,Normal
+SIM-0470,2020-11-23,2020,Declined,,Declined,Evening,Not recorded
+SIM-0471,2021-04-08,2021,Bedtime,4.1,Recorded,Evening,Normal
+SIM-0472,2022-09-19,2022,After Breakfast,7.9,Recorded,Morning,Normal
+SIM-0473,2023-02-04,2023,After Tea,10.0,Recorded,Evening,Normal
+SIM-0474,2024-07-15,2024,After Breakfast,10.7,Recorded,Morning,Normal
+SIM-0475,2025-12-26,2025,Morning bed check,10.4,Recorded,Morning,Normal
+SIM-0476,2026-05-11,2026,Bedtime,17.4,Recorded,Evening,Hyperglycaemia
+SIM-0477,2020-10-22,2020,Before Lunch,,Declined,Midday,Not recorded
+SIM-0478,2021-03-07,2021,After Tea,8.4,Recorded,Evening,Normal
+SIM-0479,2022-08-18,2022,After Tea,6.8,Recorded,Evening,Normal
+SIM-0480,2023-01-03,2023,After Breakfast,12.2,Recorded,Morning,Normal
+SIM-0481,2024-06-14,2024,After Breakfast,14.5,Recorded,Morning,Normal
+SIM-0482,2025-11-25,2025,Before Breakfast,11.6,Recorded,Morning,Normal
+SIM-0483,2026-04-10,2026,Bedtime,13.7,Recorded,Evening,Normal
+SIM-0484,2020-09-21,2020,Before Tea,16.2,Recorded,Evening,Hyperglycaemia
+SIM-0485,2021-02-06,2021,After Tea,8.6,Recorded,Evening,Normal
+SIM-0486,2022-07-17,2022,Before Tea,16.0,Recorded,Evening,Hyperglycaemia
+SIM-0487,2023-12-02,2023,Declined,,Declined,Evening,Not recorded
+SIM-0488,2024-05-13,2024,Before Breakfast,12.4,Recorded,Morning,Normal
+SIM-0489,2025-10-24,2025,Bedtime,14.7,Recorded,Evening,Normal
+SIM-0490,2026-03-09,2026,Morning bed check,16.4,Recorded,Morning,Hyperglycaemia
+SIM-0491,2020-08-20,2020,Morning bed check,6.9,Recorded,Morning,Normal
+SIM-0492,2021-01-05,2021,Before Lunch,10.7,Recorded,Midday,Normal
+SIM-0493,2022-06-16,2022,After Tea,9.5,Recorded,Evening,Normal
+SIM-0494,2023-11-01,2023,After Breakfast,7.5,Recorded,Morning,Normal
+SIM-0495,2024-04-12,2024,Before Breakfast,14.3,Recorded,Morning,Normal
+SIM-0496,2025-09-23,2025,After Lunch,9.9,Recorded,Midday,Normal
+SIM-0497,2026-02-08,2026,Before Breakfast,4.6,Recorded,Morning,Normal
+SIM-0498,2020-07-19,2020,After Tea,11.4,Recorded,Evening,Normal
+SIM-0499,2021-12-04,2021,After Lunch,8.1,Recorded,Midday,Normal
+SIM-0500,2022-05-15,2022,Morning bed check,7.9,Recorded,Morning,Normal
+SIM-0501,2023-10-26,2023,Before Breakfast,12.4,Recorded,Morning,Normal
+SIM-0502,2024-03-11,2024,After Tea,17.9,Recorded,Evening,Hyperglycaemia
+SIM-0503,2025-08-22,2025,Declined,,Declined,Evening,Not recorded
+SIM-0504,2026-01-07,2026,Bedtime,9.9,Recorded,Evening,Normal
+SIM-0505,2020-06-18,2020,After Lunch,7.1,Recorded,Midday,Normal
+SIM-0506,2021-11-03,2021,Before Lunch,6.1,Recorded,Midday,Normal
+SIM-0507,2022-04-14,2022,Bedtime,8.1,Recorded,Evening,Normal
+SIM-0508,2023-09-25,2023,Bedtime,11.2,Recorded,Evening,Normal
+SIM-0509,2024-02-10,2024,Bedtime,16.1,Recorded,Evening,Hyperglycaemia
+SIM-0510,2025-07-21,2025,Morning bed check,5.6,Recorded,Morning,Normal
+SIM-0511,2026-12-06,2026,Before Breakfast,14.3,Recorded,Morning,Normal
+SIM-0512,2020-05-17,2020,After Breakfast,9.3,Recorded,Morning,Normal
+SIM-0513,2021-10-02,2021,Before Lunch,13.7,Recorded,Midday,Normal
+SIM-0514,2022-03-13,2022,After Breakfast,11.9,Recorded,Morning,Normal
+SIM-0515,2023-08-24,2023,Night check,15.7,Recorded,Evening,Hyperglycaemia
+SIM-0516,2024-01-09,2024,After Lunch,12.1,Recorded,Midday,Normal
+SIM-0517,2025-06-20,2025,After Breakfast,11.9,Recorded,Morning,Normal
+SIM-0518,2026-11-05,2026,Night check,14.2,Recorded,Evening,Normal
+SIM-0519,2020-04-16,2020,Before Breakfast,14.2,Recorded,Morning,Normal
+SIM-0520,2021-09-01,2021,Before Breakfast,12.7,Recorded,Morning,Normal
+SIM-0521,2022-02-12,2022,After Lunch,9.7,Recorded,Midday,Normal
+SIM-0522,2023-07-23,2023,Bedtime,11.2,Recorded,Evening,Normal
+SIM-0523,2024-12-08,2024,After Lunch,5.3,Recorded,Midday,Normal
+SIM-0524,2025-05-19,2025,Night check,11.7,Recorded,Evening,Normal
+SIM-0525,2026-10-04,2026,Before Breakfast,13.3,Recorded,Morning,Normal
+SIM-0526,2020-03-15,2020,Before Breakfast,9.9,Recorded,Morning,Normal
+SIM-0527,2021-08-26,2021,Bedtime,8.7,Recorded,Evening,Normal
+SIM-0528,2022-01-11,2022,Bedtime,11.7,Recorded,Evening,Normal
+SIM-0529,2023-06-22,2023,Bedtime,10.9,Recorded,Evening,Normal
+SIM-0530,2024-11-07,2024,Before Breakfast,12.2,Recorded,Morning,Normal
+SIM-0531,2025-04-18,2025,After Breakfast,9.6,Recorded,Morning,Normal
+SIM-0532,2026-09-03,2026,Bedtime,9.6,Recorded,Evening,Normal
+SIM-0533,2020-02-14,2020,Before Tea,6.7,Recorded,Evening,Normal
+SIM-0534,2021-07-25,2021,Night check,10.2,Recorded,Evening,Normal
+SIM-0535,2022-12-10,2022,After Lunch,12.5,Recorded,Midday,Normal
+SIM-0536,2023-05-21,2023,Before Lunch,7.1,Recorded,Midday,Normal
+SIM-0537,2024-10-06,2024,After Breakfast,2.0,Recorded,Morning,Hypoglycaemia
+SIM-0538,2025-03-17,2025,Bedtime,9.1,Recorded,Evening,Normal
+SIM-0539,2026-08-02,2026,After Lunch,10.5,Recorded,Midday,Normal
+SIM-0540,2020-01-13,2020,Before Tea,,Declined,Evening,Not recorded
+SIM-0541,2021-06-24,2021,Before Lunch,11.0,Recorded,Midday,Normal
+SIM-0542,2022-11-09,2022,Before Tea,9.4,Recorded,Evening,Normal
+SIM-0543,2023-04-20,2023,Before Tea,10.4,Recorded,Evening,Normal
+SIM-0544,2024-09-05,2024,After Breakfast,6.8,Recorded,Morning,Normal
+SIM-0545,2025-02-16,2025,After Lunch,12.7,Recorded,Midday,Normal
+SIM-0546,2026-07-01,2026,Before Lunch,7.3,Recorded,Midday,Normal
+SIM-0547,2020-12-12,2020,After Lunch,5.2,Recorded,Midday,Normal
+SIM-0548,2021-05-23,2021,Before Breakfast,7.7,Recorded,Morning,Normal
+SIM-0549,2022-10-08,2022,Before Breakfast,4.9,Recorded,Morning,Normal
+SIM-0550,2023-03-19,2023,After Breakfast,8.0,Recorded,Morning,Normal
+SIM-0551,2024-08-04,2024,Morning bed check,9.3,Recorded,Morning,Normal
+SIM-0552,2025-01-15,2025,Declined,,Declined,Evening,Not recorded
+SIM-0553,2026-06-26,2026,Bedtime,19.4,Recorded,Evening,Hyperglycaemia
+SIM-0554,2020-11-11,2020,After Lunch,13.1,Recorded,Midday,Normal
+SIM-0555,2021-04-22,2021,After Lunch,7.9,Recorded,Midday,Normal
+SIM-0556,2022-09-07,2022,Before Breakfast,18.4,Recorded,Morning,Hyperglycaemia
+SIM-0557,2023-02-18,2023,Before Lunch,13.0,Recorded,Midday,Normal
+SIM-0558,2024-07-03,2024,Declined,,Declined,Evening,Not recorded
+SIM-0559,2025-12-14,2025,After Lunch,9.0,Recorded,Midday,Normal
+SIM-0560,2026-05-25,2026,Before Lunch,13.1,Recorded,Midday,Normal
