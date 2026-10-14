@@ -26,12 +26,12 @@ How can existing monitoring records be organised to reveal glucose-level pattern
 
 - `Dashboard` — visual reporting, editable charts and year selector.
 - `Synthetic_Data` — fictional records and prepared analysis columns.
-- `Chart_Data` — formula-driven calculations for KPI cards and charts.
+- `Chart_Data` — formula driven calculations for KPI cards and charts.
 - `Instructions` — workbook notes and confidentiality guidance.
 
 ## Limitations
 
-All public insights describe synthetic data only; they are not patient-level findings, clinical advice, or verified workplace outcomes. This recreation is inspired by the structure and analytical approach of the original Excel work but does not publish the original workbook.
+All public insights describe synthetic data only; they are not patient level findings, clinical advice, or verified workplace outcomes. This recreation is inspired by the structure and analytical approach of the original Excel work but does not publish the original workbook.
 
 
 ### Dashboard interactivity
