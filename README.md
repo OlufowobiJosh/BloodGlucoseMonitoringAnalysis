@@ -36,3 +36,9 @@ All public insights describe synthetic data only; they are not patient level fin
 
 ### Dashboard interactivity
 Use the **Year** dropdown in cell `AB10` and **Time of Day** dropdown in `AB14` to filter the KPI cards and four Excel charts together. The workbook uses editable Excel formulas and native charts, not a pasted dashboard image.
+
+## Dashboard Preview
+
+![Blood Glucose Monitoring Dashboard](Glucose_Monitoring_Dashboard_AI.png)
+
+*AI-generated illustration using synthetic figures. The original workplace dashboard and patient data remain confidential.*
